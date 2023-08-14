@@ -1,0 +1,13 @@
+
+.container{
+    margin: 0 34px;
+    display: flex;
+    /* justify-content: space-between; */
+    
+}
+.image-box img {
+    width: 400px;
+}
+.image-box{
+    /* display: flex; */
+}
